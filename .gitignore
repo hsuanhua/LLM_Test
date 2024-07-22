@@ -1,0 +1,7 @@
+.env
+__pycache__
+config/
+vector_db/
+venv_pdf_text/
+documents/
+pdf_images/
